@@ -26,8 +26,10 @@ To perform Functional and Usability Testing on the Tutorials Ninja aplication, e
  * Testing Methodologies
    * End to End testing
  # Credentials
- Email- 'vaishnavilakho@gmail.com
- Password- 'muskan99'
+ * Email- 'vaishnavilakhore@gmail.com
+ * Password- 'Muskan99'
+# Cypress Installation 
+Firstly download Node.js
  
  
 
