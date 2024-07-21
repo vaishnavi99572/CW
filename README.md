@@ -9,3 +9,14 @@ To perform Functional and Usability Testing on the Tutorials Ninja aplication, e
 * Git
 * Github
 * Cypress
+* Visual Studio Code
+# Operating System and Browser used in this project
+* Chrome
+* Firefox
+* Electron
+# Application under test
+ AUT- https://tutorialsninja.com/demo/  
+ # Scope
+ * Features to be tested
+   * Header and Footer Menu
+ * Testing Types
