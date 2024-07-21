@@ -26,7 +26,8 @@ To perform Functional and Usability Testing on the Tutorials Ninja aplication, e
  * Testing Methodologies
    * End to End testing
  # Credentials
-## Email- v
+ Email- 'vaishnavilakho@gmail.com
+ Password- 'muskan99'
  
  
 
