@@ -49,6 +49,15 @@ Below are the link of testing activities
 * [Mind map](https://1drv.ms/i/s!AlYhLCSypx04jH0sS-rXlsf4hASz?e=Wadt93)
 * [Summary report](https://1drv.ms/b/s!AlYhLCSypx04jHxS_gyEA5xNtDem?e=iRFIaV)
 
+# Test Execution Status
+|Test case status|Build result|
+|----------------|------------|
+|Total Number of Test Cases|12|
+|Passed Test Cases|09|
+|Failed Test Cases|03|
+|Block/skipped test cases|00|
+
+
 
 
 
