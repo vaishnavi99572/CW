@@ -6,16 +6,19 @@ To perform Functional and Usability Testing on the Tutorials Ninja aplication, e
 Javascript
 Node.js
 # Version control & Testing tool used
-Git
-Github
-Cypress
-Visual Studio Code
+* Git
+* Github
+* Cypress
+* Visual Studio Code
 # Operating System and Browser used in this project
 Chrome
 Firefox
 Electron
 # Application under test
  AUT- https://tutorialsninja.com/demo/  
+ # Scope
+ 
+ 
 
 
 
