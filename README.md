@@ -57,6 +57,15 @@ Below are the link of testing activities
 |Failed Test Cases|03|
 |Block/skipped test cases|00|
 
+# Defect Status
+|Defect status |Build result|
+|--------------|-------------|
+|Total no.|03|
+|Blocker|00|
+|Crtitcal|02|
+|Major|01|
+|Minor|00|
+
 
 
 
