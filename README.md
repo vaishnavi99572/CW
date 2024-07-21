@@ -43,7 +43,7 @@ it will download the project
 npm install cypress --save-dev
 # Test Artifacts
 Below are the link of testing activities
-[Test Plan](file:///C:/Users/vaish/OneDrive/Desktop/CW-project%20manual%20testing/TEST%20PLAN%20(1).pdf)
+* [Test Plan](https://1drv.ms/b/s!AlYhLCSypx04jHs6nGdvpbPnU0JC?e=GlHTma)
 
 
 
