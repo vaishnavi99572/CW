@@ -29,8 +29,21 @@ To perform Functional and Usability Testing on the Tutorials Ninja aplication, e
  * Email- 'vaishnavilakhore@gmail.com
  * Password- 'Muskan99'
 # Cypress Installation 
-Firstly download node.js , Go to your official website and dowload it.
-### Install VS Code
+
+### Step 1-Install VS Code
+Go to official website and download VS code and after download install it
+### Step 2-Install Node.js
+Download node.js , Go to your official website and dowload it.
+### Step 3-Verify your Node js version and npm version
+node-v
+### Step 4-Download the project
+git clone-
+it will download the project
+### Step 5- Run the project
+npm install cypress --save-dev
+
+
+
  
  
 
