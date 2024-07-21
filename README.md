@@ -29,7 +29,8 @@ To perform Functional and Usability Testing on the Tutorials Ninja aplication, e
  * Email- 'vaishnavilakhore@gmail.com
  * Password- 'Muskan99'
 # Cypress Installation 
-Firstly download Node.js
+Firstly download node.js , Go to your official website and dowload it.
+### Install VS Code
  
  
 
