@@ -44,6 +44,10 @@ npm install cypress --save-dev
 # Test Artifacts
 Below are the link of testing activities
 * [Test Plan](https://1drv.ms/b/s!AlYhLCSypx04jHs6nGdvpbPnU0JC?e=GlHTma)
+* [Test cases& Scenarios](https://1drv.ms/b/s!AlYhLCSypx04jQAyCqmEfrssV7Pu?e=AFF1gl)
+* [Bug Report](https://1drv.ms/b/s!AlYhLCSypx04_VilbmHzpl6z_0zr?e=TTPPpp)
+* [Mind map](https://1drv.ms/i/s!AlYhLCSypx04jH0sS-rXlsf4hASz?e=Wadt93)
+* [Summary report](https://1drv.ms/b/s!AlYhLCSypx04jHxS_gyEA5xNtDem?e=iRFIaV)
 
 
 
