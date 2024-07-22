@@ -37,7 +37,7 @@ Download node.js , Go to your official website and dowload it.
 ### Step 3-Verify your Node js version and npm version
 node-v
 ### Step 4-Download the project
-git clone-
+git clone-  https://github.com/vaishnavi99572/CW.git 
 it will download the project
 ### Step 5- Run the project
 npm install cypress --save-dev
