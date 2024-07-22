@@ -1,5 +1,7 @@
 # Tutorials Ninja
 Welcome to Your Store, a demo e-commerce website showcasing various products.
+
+![Screenshot (154)](https://github.com/user-attachments/assets/b833d196-9e63-4e90-b68b-ed355958a2de)
 # Objective
 To perform Functional and Usability Testing on the Tutorials Ninja aplication, ensure compatibility across various browsers and address any performance issues.
 # Tech used in this project
