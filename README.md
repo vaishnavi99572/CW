@@ -65,5 +65,12 @@ Below are the link of testing activities
 |Crtitcal|02|
 |Major|01|
 |Minor|00|
+# Recomendation and suggestion
+Based on the evalution of tutorials ninja application following feedbacks are
+* Log out option will redirected to log in page 
+* Most of the products are out of stock please work on it
+The improvement enhance to aim user better experience
+# Feedback
+If you have any feeback feel free to reach out me vaishnavilakhore@gmail.com
 
 
